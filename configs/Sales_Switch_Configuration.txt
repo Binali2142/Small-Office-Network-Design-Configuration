@@ -1,0 +1,9 @@
+enable
+configure terminal
+interface GigabitEthernet0/1
+ switchport mode trunk
+!
+interface range FastEthernet0/2 - 4
+ switchport mode access
+ switchport access vlan 30
+ no shutdown
