@@ -1,4 +1,4 @@
-# Small Office Network Design & Configuration (3 Departments + Server + Firewall)
+# Small Office Network Design & Configuration
 
 ![Network Topology](https://github.com/Binali2142/Small-Office-Network-Design-Configuration/blob/main/Screenshots/Network%20Desin.png)
 > *Complete network design showing Router, Switches, Firewall, and End Devices.*
